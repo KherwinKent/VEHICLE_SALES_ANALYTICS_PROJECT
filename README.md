@@ -332,7 +332,7 @@ make better decisions regarding:
 
 <div align="center">
 
-# 🚀 KHERWIN KENT
+# 🚀 DELA ROSA, KENT KHERWIN | CONCEPCION, JUSTINE | QUIROZ, BENEDICT | LUMANOG, PAULO | PINTOR, EDRICK JOHN
 
 ### Vehicle Sales Analytics Dashboard Project
 
