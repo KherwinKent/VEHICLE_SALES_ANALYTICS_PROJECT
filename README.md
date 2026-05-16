@@ -221,31 +221,31 @@ The project follows the **PYRAMID FRAMEWORK** by organizing the dashboard into:
 # 🧮 DAX FORMULAS USED IN POWER BI
 
 <p align="center">
-<img src="FORMULA_1.png" width="80%">
+<img src="KPI%20MEASURES%20-%20DAX%20FORMULA/FORMULA_1.png" width="80%">
 </p>
 
 <p align="center">
-<img src="FORMULA_2.png" width="80%">
+<img src="KPI%20MEASURES%20-%20DAX%20FORMULA/FORMULA_2.png" width="80%">
 </p>
 
 <p align="center">
-<img src="FORMULA_3.png" width="80%">
+<img src="KPI%20MEASURES%20-%20DAX%20FORMULA/FORMULA_3.png" width="80%">
 </p>
 
 <p align="center">
-<img src="FORMULA_4.png" width="80%">
+<img src="KPI%20MEASURES%20-%20DAX%20FORMULA/FORMULA_4.png" width="80%">
 </p>
 
 <p align="center">
-<img src="FORMULA_5.png" width="80%">
+<img src="KPI%20MEASURES%20-%20DAX%20FORMULA/FORMULA_5.png" width="80%">
 </p>
 
 <p align="center">
-<img src="FORMULA_6.png" width="80%">
+<img src="KPI%20MEASURES%20-%20DAX%20FORMULA/FORMULA_6.png" width="80%">
 </p>
 
 <p align="center">
-<img src="FORMULA_7.png" width="80%">
+<img src="KPI%20MEASURES%20-%20DAX%20FORMULA/FORMULA_7.png" width="80%">
 </p>
 
 # 📉 VISUALIZATIONS USED
