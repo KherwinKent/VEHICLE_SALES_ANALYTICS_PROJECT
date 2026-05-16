@@ -134,6 +134,9 @@ The dataset was cleaned and prepared before dashboard development.
 The project follows a **Star Schema** data model for better performance and scalability.
 
 ---
+<p align="center">
+<img src="DATAMODEL_OUTPUT.png" width="100%">
+</p>
 
 ## ⭐ FACT TABLE
 
@@ -217,9 +220,6 @@ The project follows the **PYRAMID FRAMEWORK** by organizing the dashboard into:
 The dashboard was designed using the **DASH Framework**.
 
 ---
-<p align="center">
-<img src="DATAMODEL_OUTPUT.png" width="100%">
-</p>
 
 ## 🎯 D — Define the Goal
 
