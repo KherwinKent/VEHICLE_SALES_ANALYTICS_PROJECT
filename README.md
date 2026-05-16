@@ -42,7 +42,7 @@ The dashboard helps analyze:
 > 📌 Upload your dashboard screenshot to GitHub and replace the image link below.
 
 <p align="center">
-<img src="YOUR_DASHBOARD_IMAGE_LINK_HERE" width="100%">
+<img src="DASHBOARD_OUTPUT.png" width="100%">
 </p>
 
 ---
